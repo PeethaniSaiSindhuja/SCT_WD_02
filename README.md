@@ -84,22 +84,3 @@ Expandable info section describing app usage and features.
 1. Open the folder
 2. Double-click `index.html` to open in your browser
 
----
-
-## 📌 Notes
-
-- Ensure audio files (`beep-329314.mp3`) are present in the same folder as `index.html` for full functionality.
-- The stopwatch is **entirely client-side** and does not store lap history after page reloads.
-
----
-
-## 📷 Screenshots
-
-> _You can include screenshots here for better presentation._
-
----
-
-## 📃 License
-
-This project is open for personal and educational use. Attribution appreciated.
-
