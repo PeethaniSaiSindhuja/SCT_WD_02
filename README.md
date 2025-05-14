@@ -84,3 +84,6 @@ Expandable info section describing app usage and features.
 1. Open the folder
 2. Double-click `index.html` to open in your browser
 
+## 📃 License
+
+This project is open-source for educational or personal use. Attribution is appreciated.
