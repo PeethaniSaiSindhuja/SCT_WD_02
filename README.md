@@ -54,6 +54,7 @@ Expandable info section describing app usage and features.
 
 ## 📁 File Structure
 📦 neon-stopwatch/
+
 ┣ 📄 index.html # Main app file
 
 ┣ 🎵 beep-329314.mp3 # Audio used for start/pause feedback
